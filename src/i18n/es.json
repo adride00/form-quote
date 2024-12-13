@@ -1,0 +1,87 @@
+{
+  "form": {
+    "title": "Cotizar",
+    "descriptionReason": "Queremos atenderte de la mejor manera posible.",
+    "descriptionCTA": "Completa el siguiente formulario, selecciona los servicios que deseas cotizar y nos pondremos en contacto contigo lo antes posible."
+  },
+  "formAboutYou": {
+    "title": "Cuéntanos sobre ti",
+    "fullName": "Nombre completo",
+    "emailAddress": "Dirección correo electrónico",
+    "phoneNumber": "Número de teléfono",
+    "jobTitle": "Cargo laboral",
+    "companyName": "Nombre de la empresa",
+    "mandatoryField": "Este campo es obligatorio",
+    "next": "Siguiente"
+  },
+  "validation": {
+    "nameRequired": "* Se requiere el nombre y apellido",
+    "invalidEmail": "* Dirección de correo electrónico inválida",
+    "phoneNumberRequired": "* Se requiere el número de teléfono"
+  },
+  "formAboutYourProject": {
+    "title": "Cuéntanos sobre tu proyecto",
+    "technologyPrompt": "¿En cuales tecnologías te encuentras interesado?",
+    "servicePrompt": "¿Qué servicio necesitas?",
+    "overviewPrompt": "¿Podrías proporcionarnos una breve descripción de tu proyecto?",
+    "mandatoryField": "Este campo es obligatorio",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "other": "Por favor especifica la tecnología que necesitas",
+    "otherService": "Por favor, especifique el servicio que necesita"
+  },
+  "technologies": {
+    "1": "Desarrollo Backend",
+    "2": "Desarrollo Frontend",
+    "3": "Desarrollo Móvil",
+    "4": "Desarrollo CMS",
+    "5": "Desarrollo de Ecommerce",
+    "6": "Otro (Por favor especifique)"
+  },
+  "services": {
+    "1": "Diseño UI",
+    "2": "Investigación y estrategia de usuarios",
+    "3": "Diseño de experiencias de usuarios",
+    "4": "Wireframes & Prototipos",
+    "5": "Aplicación web personalizada",
+    "6": "Desarrollo web empresarial",
+    "7": "Otro (Por favor especifique)"
+  },
+  "validationFormProject": {
+    "overviewRequired": "* Se requiere una descripción general",
+    "techRequired": "Debe seleccionar al menos una tecnología",
+    "serviceRequired": "Debe seleccionar al menos un servicio",
+    "other": "Este campo es obligatorio",
+    "otherServiceRequired": "Este campo es obligatorio"
+  },
+  "formBudget": {
+    "title": "Información de presupuesto",
+    "teamTypePrompt": "Seleccione el tipo de equipo que está buscando",
+    "investmentPrompt": "¿Cuál es su monto de inversión que desea?",
+    "mandatoryField": "Este campo es obligatorio",
+    "send": "ENVIAR",
+    "staff": "¿Cuál es su presupuesto mensual por recurso?",
+    "budget": "¿Cuál es el presupuesto para su proyecto?",
+    "resourcesRequired": "* Este campo es obligatorio"
+  },
+  "budgetInformation": {
+    "1": "Ampliación de equipo",
+    "2": "Ampliación de personal",
+    "3": "Precio fijo"
+  },
+  "investmentAmount": {
+    "1": "$15,000 - $25,000 por mes",
+    "2": "$25,000 - $50,000 por mes",
+    "3": "+$50,000 - por mes",
+    "4": "Aún no tengo un presupuesto asignado"
+  },
+  "validationFormQuotes": {
+    "teamTypeRequired": "Por favor seleccione el tipo de equipo que está buscando",
+    "investmentRequired": "Por favor seleccione su monto de inversión deseado"
+  },
+  "successMessage": {
+    "title": "¡Gracias!",
+    "message1": "¡Hemos recibido tu solicitud de cotización!",
+    "message2": "Te atenderemos lo antes posible"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "form": {
+    "title": "Get a quote",
+    "descriptionReason": "We want to serve you in the best possible way.",
+    "descriptionCTA": " Complete the following form, select the services you want to quote, and we will contact you as quickly as possible."
+  },
+  "formAboutYou": {
+    "title": "Tell us about you",
+    "fullName": "Full name",
+    "emailAddress": "Email address",
+    "phoneNumber": "Phone number",
+    "jobTitle": "Job title",
+    "companyName": "Company name",
+    "mandatoryField": "This field is mandatory",
+    "next": "Next"
+  },
+  "validation": {
+    "nameRequired": "* Full name is required",
+    "invalidEmail": "* Invalid email address",
+    "phoneNumberRequired": "* Phone number is required"
+  },
+  "formAboutYourProject": {
+    "title": "Tell us about the project",
+    "technologyPrompt": "In which technologies are you interested?",
+    "servicePrompt": "What service do you need?",
+    "overviewPrompt": "Could you provide a brief overview of your project for us?",
+    "mandatoryField": "This field is mandatory",
+    "previous": "Previous",
+    "next": "Next",
+    "other": "Please specify the technology you need",
+    "otherService": "Please specify the service you need"
+  },
+  "technologies": {
+    "1": "Backend Development",
+    "2": "Frontend Development",
+    "3": "Mobile Development",
+    "4": "CMS Development",
+    "5": "Ecommerce Development",
+    "6": "Other (Please specify)"
+  },
+  "services": {
+    "1": "UI Design",
+    "2": "User Research & Strategy",
+    "3": "User Experience Design",
+    "4": "Wireframes & Prototyping",
+    "5": "Custom Web Application",
+    "6": "Enterprise Web Development",
+    "7": "Other (Please specify)"
+  },
+  "validationFormProject": {
+    "overviewRequired": "* Overview is required",
+    "techRequired": "At least one technology must be selected",
+    "serviceRequired": "At least one service must be selected",
+    "other": "This field is required",
+    "otherServiceRequired": "This field is required"
+  },
+  "formBudget": {
+    "title": "Budget Information",
+    "teamTypePrompt": "Select the type of team you are looking for",
+    "investmentPrompt": "What is your desired investment amount?",
+    "mandatoryField": "This field is mandatory",
+    "send": "SEND",
+    "staff": "What is your monthly budget per resource?",
+    "budget": "What is the bugdet for your project?",
+    "resourcesRequired": "* This field is required"
+  },
+  "budgetInformation": {
+    "1": "Team augmentation",
+    "2": "Staff augmentation",
+    "3": "Fixed price"
+  },
+  "investmentAmount": {
+    "1": "$15,000 - $25,000 per month",
+    "2": "$25,000 - $50,000 per month",
+    "3": "+$50,000 - per month",
+    "4": "I do not have an assigned budget yet"
+  },
+  "validationFormQuotes": {
+    "teamTypeRequired": "Please select the type of team you are looking for",
+    "investmentRequired": "Please select your desired investment amount"
+  },
+  "successMessage": {
+    "title": "Thank you!",
+    "message1": "We have received your quote request!",
+    "message2": "We will assist you as soon as possible"
+  }
+}
